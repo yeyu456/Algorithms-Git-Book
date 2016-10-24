@@ -1,0 +1,15 @@
+{
+    "author": "Yu Ye <yeyu456@gmail.com>",
+    "title": "算法和数据结构笔记",
+    "description": "算法和数据结构笔记",
+    "language": "zh",
+    "plugins": [
+        "tags", 
+        "katex", 
+        "-lunr", 
+        "search-jieba"
+    ],
+    "pdf": {
+        "fontSize": 14
+    }
+}
